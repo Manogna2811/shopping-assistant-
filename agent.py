@@ -15,14 +15,14 @@ import os
 from datetime import date
 from pathlib import Path
 
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 from groq import Groq
 
 from tools import (CUSTOMERS, TOOL_SCHEMAS, cancel_order, check_refund_eligibility,
                   check_warranty_claim, close_ticket, escalate_to_human, get_ticket, issue_refund,
                   lookup_order, run_tool)
 
-load_dotenv(Path(__file__).with_name(".env"))   # reads groq_api_key from the .env file
+#load_dotenv(Path(__file__).with_name(".env"))   # reads groq_api_key from the .env file
 MODEL = os.getenv("SHOPASSIST_MODEL", "openai/gpt-oss-120b")
 MAX_STEPS = 8
 
@@ -55,7 +55,7 @@ def _client():
     """Create the Groq client on first use so a missing key gives a clear message."""
     global _CLIENT
     if _CLIENT is None:
-        key = ""
+        key = "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"
         if not key:
             raise RuntimeError("groq_api_key not found. Add the line groq_api_key=gsk_... to the .env file "
                                "next to agent.py (create a key at https://console.groq.com/keys).")
