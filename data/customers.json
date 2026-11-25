@@ -1,0 +1,1602 @@
+[
+  {
+    "customer_id": "C0001",
+    "name": "Sneha Sharma",
+    "email": "sneha.sharma1@example.com",
+    "city": "Delhi",
+    "tier": "standard",
+    "joined": "2026-01-13"
+  },
+  {
+    "customer_id": "C0002",
+    "name": "Sneha Mehta",
+    "email": "sneha.mehta2@example.com",
+    "city": "Bengaluru",
+    "tier": "standard",
+    "joined": "2026-08-21"
+  },
+  {
+    "customer_id": "C0003",
+    "name": "Aarav Patel",
+    "email": "aarav.patel3@example.com",
+    "city": "Mumbai",
+    "tier": "standard",
+    "joined": "2023-06-11"
+  },
+  {
+    "customer_id": "C0004",
+    "name": "Aarav Mehta",
+    "email": "aarav.mehta4@example.com",
+    "city": "Mumbai",
+    "tier": "standard",
+    "joined": "2022-11-19"
+  },
+  {
+    "customer_id": "C0005",
+    "name": "Mia Khan",
+    "email": "mia.khan5@example.com",
+    "city": "Mumbai",
+    "tier": "standard",
+    "joined": "2025-04-04"
+  },
+  {
+    "customer_id": "C0006",
+    "name": "Aarav Iyer",
+    "email": "aarav.iyer6@example.com",
+    "city": "Guntur",
+    "tier": "standard",
+    "joined": "2025-12-11"
+  },
+  {
+    "customer_id": "C0007",
+    "name": "Karthik Johnson",
+    "email": "karthik.johnson7@example.com",
+    "city": "Bengaluru",
+    "tier": "standard",
+    "joined": "2026-04-10"
+  },
+  {
+    "customer_id": "C0008",
+    "name": "Emma Lee",
+    "email": "emma.lee8@example.com",
+    "city": "Delhi",
+    "tier": "standard",
+    "joined": "2024-03-29"
+  },
+  {
+    "customer_id": "C0009",
+    "name": "Mia Nair",
+    "email": "mia.nair9@example.com",
+    "city": "Guntur",
+    "tier": "standard",
+    "joined": "2025-03-04"
+  },
+  {
+    "customer_id": "C0010",
+    "name": "Ava Lee",
+    "email": "ava.lee10@example.com",
+    "city": "Mumbai",
+    "tier": "standard",
+    "joined": "2026-07-24"
+  },
+  {
+    "customer_id": "C0011",
+    "name": "Divya Brown",
+    "email": "divya.brown11@example.com",
+    "city": "Bengaluru",
+    "tier": "gold",
+    "joined": "2026-04-02"
+  },
+  {
+    "customer_id": "C0012",
+    "name": "Liam Smith",
+    "email": "liam.smith12@example.com",
+    "city": "Vijayawada",
+    "tier": "standard",
+    "joined": "2024-10-08"
+  },
+  {
+    "customer_id": "C0013",
+    "name": "Ananya Lee",
+    "email": "ananya.lee13@example.com",
+    "city": "Pune",
+    "tier": "standard",
+    "joined": "2025-04-27"
+  },
+  {
+    "customer_id": "C0014",
+    "name": "Rahul Chopra",
+    "email": "rahul.chopra14@example.com",
+    "city": "Chennai",
+    "tier": "standard",
+    "joined": "2025-06-11"
+  },
+  {
+    "customer_id": "C0015",
+    "name": "Ananya Das",
+    "email": "ananya.das15@example.com",
+    "city": "Guntur",
+    "tier": "standard",
+    "joined": "2023-03-25"
+  },
+  {
+    "customer_id": "C0016",
+    "name": "Mia Gupta",
+    "email": "mia.gupta16@example.com",
+    "city": "Pune",
+    "tier": "standard",
+    "joined": "2026-07-03"
+  },
+  {
+    "customer_id": "C0017",
+    "name": "Divya Reddy",
+    "email": "divya.reddy17@example.com",
+    "city": "Pune",
+    "tier": "standard",
+    "joined": "2026-06-12"
+  },
+  {
+    "customer_id": "C0018",
+    "name": "Karthik Joshi",
+    "email": "karthik.joshi18@example.com",
+    "city": "Pune",
+    "tier": "standard",
+    "joined": "2024-01-07"
+  },
+  {
+    "customer_id": "C0019",
+    "name": "Liam Das",
+    "email": "liam.das19@example.com",
+    "city": "Chennai",
+    "tier": "standard",
+    "joined": "2025-06-07"
+  },
+  {
+    "customer_id": "C0020",
+    "name": "Mia Mehta",
+    "email": "mia.mehta20@example.com",
+    "city": "Delhi",
+    "tier": "standard",
+    "joined": "2024-05-31"
+  },
+  {
+    "customer_id": "C0021",
+    "name": "Ethan Garcia",
+    "email": "ethan.garcia21@example.com",
+    "city": "Pune",
+    "tier": "standard",
+    "joined": "2026-01-15"
+  },
+  {
+    "customer_id": "C0022",
+    "name": "Lucas Kumar",
+    "email": "lucas.kumar22@example.com",
+    "city": "Bengaluru",
+    "tier": "standard",
+    "joined": "2026-03-15"
+  },
+  {
+    "customer_id": "C0023",
+    "name": "Vikram Iyer",
+    "email": "vikram.iyer23@example.com",
+    "city": "Guntur",
+    "tier": "standard",
+    "joined": "2024-08-28"
+  },
+  {
+    "customer_id": "C0024",
+    "name": "Liam Chopra",
+    "email": "liam.chopra24@example.com",
+    "city": "Vijayawada",
+    "tier": "standard",
+    "joined": "2023-09-18"
+  },
+  {
+    "customer_id": "C0025",
+    "name": "Aarav Nair",
+    "email": "aarav.nair25@example.com",
+    "city": "Delhi",
+    "tier": "standard",
+    "joined": "2024-11-28"
+  },
+  {
+    "customer_id": "C0026",
+    "name": "Sneha Brown",
+    "email": "sneha.brown26@example.com",
+    "city": "Guntur",
+    "tier": "standard",
+    "joined": "2026-10-19"
+  },
+  {
+    "customer_id": "C0027",
+    "name": "Arjun Verma",
+    "email": "arjun.verma27@example.com",
+    "city": "Chennai",
+    "tier": "standard",
+    "joined": "2026-03-22"
+  },
+  {
+    "customer_id": "C0028",
+    "name": "Meera Verma",
+    "email": "meera.verma28@example.com",
+    "city": "Mumbai",
+    "tier": "standard",
+    "joined": "2025-11-29"
+  },
+  {
+    "customer_id": "C0029",
+    "name": "Mia Verma",
+    "email": "mia.verma29@example.com",
+    "city": "Hyderabad",
+    "tier": "standard",
+    "joined": "2024-01-29"
+  },
+  {
+    "customer_id": "C0030",
+    "name": "Aarav Nair",
+    "email": "aarav.nair30@example.com",
+    "city": "Pune",
+    "tier": "gold",
+    "joined": "2025-02-03"
+  },
+  {
+    "customer_id": "C0031",
+    "name": "Divya Reddy",
+    "email": "divya.reddy31@example.com",
+    "city": "Mumbai",
+    "tier": "gold",
+    "joined": "2026-05-17"
+  },
+  {
+    "customer_id": "C0032",
+    "name": "Rahul Kumar",
+    "email": "rahul.kumar32@example.com",
+    "city": "Bengaluru",
+    "tier": "gold",
+    "joined": "2023-10-31"
+  },
+  {
+    "customer_id": "C0033",
+    "name": "Vikram Singh",
+    "email": "vikram.singh33@example.com",
+    "city": "Vijayawada",
+    "tier": "gold",
+    "joined": "2025-11-21"
+  },
+  {
+    "customer_id": "C0034",
+    "name": "Arjun Verma",
+    "email": "arjun.verma34@example.com",
+    "city": "Guntur",
+    "tier": "gold",
+    "joined": "2023-10-17"
+  },
+  {
+    "customer_id": "C0035",
+    "name": "Karthik Brown",
+    "email": "karthik.brown35@example.com",
+    "city": "Guntur",
+    "tier": "gold",
+    "joined": "2023-03-05"
+  },
+  {
+    "customer_id": "C0036",
+    "name": "Emma Das",
+    "email": "emma.das36@example.com",
+    "city": "Vijayawada",
+    "tier": "standard",
+    "joined": "2025-07-22"
+  },
+  {
+    "customer_id": "C0037",
+    "name": "Rahul Johnson",
+    "email": "rahul.johnson37@example.com",
+    "city": "Hyderabad",
+    "tier": "standard",
+    "joined": "2025-07-11"
+  },
+  {
+    "customer_id": "C0038",
+    "name": "Ethan Gupta",
+    "email": "ethan.gupta38@example.com",
+    "city": "Hyderabad",
+    "tier": "standard",
+    "joined": "2023-04-12"
+  },
+  {
+    "customer_id": "C0039",
+    "name": "Priya Gupta",
+    "email": "priya.gupta39@example.com",
+    "city": "Bengaluru",
+    "tier": "gold",
+    "joined": "2024-12-18"
+  },
+  {
+    "customer_id": "C0040",
+    "name": "Rahul Verma",
+    "email": "rahul.verma40@example.com",
+    "city": "Mumbai",
+    "tier": "standard",
+    "joined": "2024-02-04"
+  },
+  {
+    "customer_id": "C0041",
+    "name": "Karthik Mehta",
+    "email": "karthik.mehta41@example.com",
+    "city": "Chennai",
+    "tier": "standard",
+    "joined": "2023-08-13"
+  },
+  {
+    "customer_id": "C0042",
+    "name": "Ethan Kumar",
+    "email": "ethan.kumar42@example.com",
+    "city": "Mumbai",
+    "tier": "standard",
+    "joined": "2024-07-14"
+  },
+  {
+    "customer_id": "C0043",
+    "name": "Karthik Nair",
+    "email": "karthik.nair43@example.com",
+    "city": "Bengaluru",
+    "tier": "standard",
+    "joined": "2024-10-30"
+  },
+  {
+    "customer_id": "C0044",
+    "name": "Olivia Khan",
+    "email": "olivia.khan44@example.com",
+    "city": "Vijayawada",
+    "tier": "gold",
+    "joined": "2026-07-07"
+  },
+  {
+    "customer_id": "C0045",
+    "name": "Sneha Reddy",
+    "email": "sneha.reddy45@example.com",
+    "city": "Guntur",
+    "tier": "standard",
+    "joined": "2026-03-16"
+  },
+  {
+    "customer_id": "C0046",
+    "name": "Divya Rao",
+    "email": "divya.rao46@example.com",
+    "city": "Mumbai",
+    "tier": "standard",
+    "joined": "2026-01-11"
+  },
+  {
+    "customer_id": "C0047",
+    "name": "Olivia Iyer",
+    "email": "olivia.iyer47@example.com",
+    "city": "Delhi",
+    "tier": "standard",
+    "joined": "2026-05-24"
+  },
+  {
+    "customer_id": "C0048",
+    "name": "Noah Mehta",
+    "email": "noah.mehta48@example.com",
+    "city": "Bengaluru",
+    "tier": "standard",
+    "joined": "2023-10-14"
+  },
+  {
+    "customer_id": "C0049",
+    "name": "Aarav Patel",
+    "email": "aarav.patel49@example.com",
+    "city": "Mumbai",
+    "tier": "standard",
+    "joined": "2024-02-04"
+  },
+  {
+    "customer_id": "C0050",
+    "name": "Sophia Rao",
+    "email": "sophia.rao50@example.com",
+    "city": "Guntur",
+    "tier": "gold",
+    "joined": "2025-11-22"
+  },
+  {
+    "customer_id": "C0051",
+    "name": "Liam Sharma",
+    "email": "liam.sharma51@example.com",
+    "city": "Guntur",
+    "tier": "standard",
+    "joined": "2024-04-07"
+  },
+  {
+    "customer_id": "C0052",
+    "name": "Meera Khan",
+    "email": "meera.khan52@example.com",
+    "city": "Vijayawada",
+    "tier": "standard",
+    "joined": "2025-02-25"
+  },
+  {
+    "customer_id": "C0053",
+    "name": "Karthik Reddy",
+    "email": "karthik.reddy53@example.com",
+    "city": "Hyderabad",
+    "tier": "standard",
+    "joined": "2026-06-30"
+  },
+  {
+    "customer_id": "C0054",
+    "name": "Priya Joshi",
+    "email": "priya.joshi54@example.com",
+    "city": "Vijayawada",
+    "tier": "standard",
+    "joined": "2023-11-03"
+  },
+  {
+    "customer_id": "C0055",
+    "name": "Ananya Reddy",
+    "email": "ananya.reddy55@example.com",
+    "city": "Bengaluru",
+    "tier": "gold",
+    "joined": "2026-06-07"
+  },
+  {
+    "customer_id": "C0056",
+    "name": "Ava Patel",
+    "email": "ava.patel56@example.com",
+    "city": "Mumbai",
+    "tier": "standard",
+    "joined": "2023-08-16"
+  },
+  {
+    "customer_id": "C0057",
+    "name": "Divya Joshi",
+    "email": "divya.joshi57@example.com",
+    "city": "Hyderabad",
+    "tier": "standard",
+    "joined": "2024-06-19"
+  },
+  {
+    "customer_id": "C0058",
+    "name": "Ethan Joshi",
+    "email": "ethan.joshi58@example.com",
+    "city": "Pune",
+    "tier": "gold",
+    "joined": "2025-09-02"
+  },
+  {
+    "customer_id": "C0059",
+    "name": "John Gupta",
+    "email": "john.gupta59@example.com",
+    "city": "Delhi",
+    "tier": "standard",
+    "joined": "2023-01-19"
+  },
+  {
+    "customer_id": "C0060",
+    "name": "Meera Das",
+    "email": "meera.das60@example.com",
+    "city": "Pune",
+    "tier": "gold",
+    "joined": "2026-05-30"
+  },
+  {
+    "customer_id": "C0061",
+    "name": "Aarav Das",
+    "email": "aarav.das61@example.com",
+    "city": "Bengaluru",
+    "tier": "standard",
+    "joined": "2025-08-15"
+  },
+  {
+    "customer_id": "C0062",
+    "name": "Lucas Smith",
+    "email": "lucas.smith62@example.com",
+    "city": "Chennai",
+    "tier": "gold",
+    "joined": "2026-06-07"
+  },
+  {
+    "customer_id": "C0063",
+    "name": "Divya Lee",
+    "email": "divya.lee63@example.com",
+    "city": "Delhi",
+    "tier": "standard",
+    "joined": "2023-10-09"
+  },
+  {
+    "customer_id": "C0064",
+    "name": "Meera Chopra",
+    "email": "meera.chopra64@example.com",
+    "city": "Hyderabad",
+    "tier": "standard",
+    "joined": "2023-09-16"
+  },
+  {
+    "customer_id": "C0065",
+    "name": "Meera Nair",
+    "email": "meera.nair65@example.com",
+    "city": "Chennai",
+    "tier": "standard",
+    "joined": "2026-03-20"
+  },
+  {
+    "customer_id": "C0066",
+    "name": "Mia Singh",
+    "email": "mia.singh66@example.com",
+    "city": "Delhi",
+    "tier": "standard",
+    "joined": "2025-08-20"
+  },
+  {
+    "customer_id": "C0067",
+    "name": "John Rao",
+    "email": "john.rao67@example.com",
+    "city": "Delhi",
+    "tier": "standard",
+    "joined": "2025-05-29"
+  },
+  {
+    "customer_id": "C0068",
+    "name": "Priya Patel",
+    "email": "priya.patel68@example.com",
+    "city": "Guntur",
+    "tier": "standard",
+    "joined": "2026-07-27"
+  },
+  {
+    "customer_id": "C0069",
+    "name": "Aarav Johnson",
+    "email": "aarav.johnson69@example.com",
+    "city": "Chennai",
+    "tier": "standard",
+    "joined": "2025-05-07"
+  },
+  {
+    "customer_id": "C0070",
+    "name": "Ananya Das",
+    "email": "ananya.das70@example.com",
+    "city": "Guntur",
+    "tier": "standard",
+    "joined": "2026-03-10"
+  },
+  {
+    "customer_id": "C0071",
+    "name": "Rahul Singh",
+    "email": "rahul.singh71@example.com",
+    "city": "Hyderabad",
+    "tier": "standard",
+    "joined": "2023-07-21"
+  },
+  {
+    "customer_id": "C0072",
+    "name": "Mia Singh",
+    "email": "mia.singh72@example.com",
+    "city": "Guntur",
+    "tier": "standard",
+    "joined": "2025-02-01"
+  },
+  {
+    "customer_id": "C0073",
+    "name": "Emma Reddy",
+    "email": "emma.reddy73@example.com",
+    "city": "Pune",
+    "tier": "standard",
+    "joined": "2025-06-01"
+  },
+  {
+    "customer_id": "C0074",
+    "name": "Sneha Lee",
+    "email": "sneha.lee74@example.com",
+    "city": "Guntur",
+    "tier": "gold",
+    "joined": "2025-12-13"
+  },
+  {
+    "customer_id": "C0075",
+    "name": "Divya Iyer",
+    "email": "divya.iyer75@example.com",
+    "city": "Chennai",
+    "tier": "gold",
+    "joined": "2026-09-05"
+  },
+  {
+    "customer_id": "C0076",
+    "name": "Ananya Johnson",
+    "email": "ananya.johnson76@example.com",
+    "city": "Guntur",
+    "tier": "standard",
+    "joined": "2025-06-04"
+  },
+  {
+    "customer_id": "C0077",
+    "name": "Arjun Iyer",
+    "email": "arjun.iyer77@example.com",
+    "city": "Bengaluru",
+    "tier": "standard",
+    "joined": "2026-08-07"
+  },
+  {
+    "customer_id": "C0078",
+    "name": "Sophia Gupta",
+    "email": "sophia.gupta78@example.com",
+    "city": "Mumbai",
+    "tier": "standard",
+    "joined": "2024-03-27"
+  },
+  {
+    "customer_id": "C0079",
+    "name": "Emma Brown",
+    "email": "emma.brown79@example.com",
+    "city": "Mumbai",
+    "tier": "standard",
+    "joined": "2023-02-12"
+  },
+  {
+    "customer_id": "C0080",
+    "name": "Karthik Garcia",
+    "email": "karthik.garcia80@example.com",
+    "city": "Pune",
+    "tier": "standard",
+    "joined": "2026-06-05"
+  },
+  {
+    "customer_id": "C0081",
+    "name": "Arjun Lee",
+    "email": "arjun.lee81@example.com",
+    "city": "Guntur",
+    "tier": "standard",
+    "joined": "2023-10-23"
+  },
+  {
+    "customer_id": "C0082",
+    "name": "John Sharma",
+    "email": "john.sharma82@example.com",
+    "city": "Bengaluru",
+    "tier": "gold",
+    "joined": "2025-05-09"
+  },
+  {
+    "customer_id": "C0083",
+    "name": "Ananya Joshi",
+    "email": "ananya.joshi83@example.com",
+    "city": "Delhi",
+    "tier": "standard",
+    "joined": "2023-06-22"
+  },
+  {
+    "customer_id": "C0084",
+    "name": "Olivia Lee",
+    "email": "olivia.lee84@example.com",
+    "city": "Pune",
+    "tier": "standard",
+    "joined": "2023-12-13"
+  },
+  {
+    "customer_id": "C0085",
+    "name": "Sneha Garcia",
+    "email": "sneha.garcia85@example.com",
+    "city": "Mumbai",
+    "tier": "standard",
+    "joined": "2022-11-04"
+  },
+  {
+    "customer_id": "C0086",
+    "name": "Olivia Sharma",
+    "email": "olivia.sharma86@example.com",
+    "city": "Mumbai",
+    "tier": "standard",
+    "joined": "2026-06-04"
+  },
+  {
+    "customer_id": "C0087",
+    "name": "John Chopra",
+    "email": "john.chopra87@example.com",
+    "city": "Pune",
+    "tier": "standard",
+    "joined": "2026-02-12"
+  },
+  {
+    "customer_id": "C0088",
+    "name": "Meera Verma",
+    "email": "meera.verma88@example.com",
+    "city": "Delhi",
+    "tier": "standard",
+    "joined": "2024-12-26"
+  },
+  {
+    "customer_id": "C0089",
+    "name": "Liam Brown",
+    "email": "liam.brown89@example.com",
+    "city": "Chennai",
+    "tier": "standard",
+    "joined": "2023-02-02"
+  },
+  {
+    "customer_id": "C0090",
+    "name": "Liam Iyer",
+    "email": "liam.iyer90@example.com",
+    "city": "Delhi",
+    "tier": "standard",
+    "joined": "2026-10-25"
+  },
+  {
+    "customer_id": "C0091",
+    "name": "Meera Brown",
+    "email": "meera.brown91@example.com",
+    "city": "Mumbai",
+    "tier": "standard",
+    "joined": "2023-07-26"
+  },
+  {
+    "customer_id": "C0092",
+    "name": "Ava Johnson",
+    "email": "ava.johnson92@example.com",
+    "city": "Vijayawada",
+    "tier": "standard",
+    "joined": "2023-01-11"
+  },
+  {
+    "customer_id": "C0093",
+    "name": "Karthik Verma",
+    "email": "karthik.verma93@example.com",
+    "city": "Vijayawada",
+    "tier": "standard",
+    "joined": "2025-11-12"
+  },
+  {
+    "customer_id": "C0094",
+    "name": "Rahul Brown",
+    "email": "rahul.brown94@example.com",
+    "city": "Pune",
+    "tier": "standard",
+    "joined": "2025-07-01"
+  },
+  {
+    "customer_id": "C0095",
+    "name": "Meera Gupta",
+    "email": "meera.gupta95@example.com",
+    "city": "Mumbai",
+    "tier": "standard",
+    "joined": "2026-07-23"
+  },
+  {
+    "customer_id": "C0096",
+    "name": "Divya Kumar",
+    "email": "divya.kumar96@example.com",
+    "city": "Bengaluru",
+    "tier": "standard",
+    "joined": "2023-04-15"
+  },
+  {
+    "customer_id": "C0097",
+    "name": "Ethan Rao",
+    "email": "ethan.rao97@example.com",
+    "city": "Guntur",
+    "tier": "standard",
+    "joined": "2025-06-13"
+  },
+  {
+    "customer_id": "C0098",
+    "name": "Vikram Sharma",
+    "email": "vikram.sharma98@example.com",
+    "city": "Bengaluru",
+    "tier": "standard",
+    "joined": "2025-08-03"
+  },
+  {
+    "customer_id": "C0099",
+    "name": "Ananya Verma",
+    "email": "ananya.verma99@example.com",
+    "city": "Vijayawada",
+    "tier": "standard",
+    "joined": "2025-06-02"
+  },
+  {
+    "customer_id": "C0100",
+    "name": "Sneha Das",
+    "email": "sneha.das100@example.com",
+    "city": "Chennai",
+    "tier": "standard",
+    "joined": "2023-01-27"
+  },
+  {
+    "customer_id": "C0101",
+    "name": "Lucas Mehta",
+    "email": "lucas.mehta101@example.com",
+    "city": "Pune",
+    "tier": "gold",
+    "joined": "2024-05-02"
+  },
+  {
+    "customer_id": "C0102",
+    "name": "Ava Verma",
+    "email": "ava.verma102@example.com",
+    "city": "Guntur",
+    "tier": "standard",
+    "joined": "2023-09-29"
+  },
+  {
+    "customer_id": "C0103",
+    "name": "Noah Iyer",
+    "email": "noah.iyer103@example.com",
+    "city": "Vijayawada",
+    "tier": "standard",
+    "joined": "2025-06-06"
+  },
+  {
+    "customer_id": "C0104",
+    "name": "Arjun Verma",
+    "email": "arjun.verma104@example.com",
+    "city": "Vijayawada",
+    "tier": "standard",
+    "joined": "2025-04-11"
+  },
+  {
+    "customer_id": "C0105",
+    "name": "Noah Patel",
+    "email": "noah.patel105@example.com",
+    "city": "Delhi",
+    "tier": "standard",
+    "joined": "2024-12-07"
+  },
+  {
+    "customer_id": "C0106",
+    "name": "John Mehta",
+    "email": "john.mehta106@example.com",
+    "city": "Bengaluru",
+    "tier": "standard",
+    "joined": "2025-07-09"
+  },
+  {
+    "customer_id": "C0107",
+    "name": "Liam Singh",
+    "email": "liam.singh107@example.com",
+    "city": "Mumbai",
+    "tier": "standard",
+    "joined": "2024-07-13"
+  },
+  {
+    "customer_id": "C0108",
+    "name": "John Mehta",
+    "email": "john.mehta108@example.com",
+    "city": "Vijayawada",
+    "tier": "standard",
+    "joined": "2025-08-28"
+  },
+  {
+    "customer_id": "C0109",
+    "name": "Olivia Garcia",
+    "email": "olivia.garcia109@example.com",
+    "city": "Hyderabad",
+    "tier": "gold",
+    "joined": "2023-08-03"
+  },
+  {
+    "customer_id": "C0110",
+    "name": "Liam Kumar",
+    "email": "liam.kumar110@example.com",
+    "city": "Hyderabad",
+    "tier": "gold",
+    "joined": "2025-02-21"
+  },
+  {
+    "customer_id": "C0111",
+    "name": "Liam Khan",
+    "email": "liam.khan111@example.com",
+    "city": "Mumbai",
+    "tier": "standard",
+    "joined": "2025-04-15"
+  },
+  {
+    "customer_id": "C0112",
+    "name": "Olivia Kumar",
+    "email": "olivia.kumar112@example.com",
+    "city": "Hyderabad",
+    "tier": "standard",
+    "joined": "2023-01-25"
+  },
+  {
+    "customer_id": "C0113",
+    "name": "Liam Iyer",
+    "email": "liam.iyer113@example.com",
+    "city": "Vijayawada",
+    "tier": "gold",
+    "joined": "2023-04-30"
+  },
+  {
+    "customer_id": "C0114",
+    "name": "Mia Sharma",
+    "email": "mia.sharma114@example.com",
+    "city": "Guntur",
+    "tier": "standard",
+    "joined": "2023-02-06"
+  },
+  {
+    "customer_id": "C0115",
+    "name": "Aarav Patel",
+    "email": "aarav.patel115@example.com",
+    "city": "Guntur",
+    "tier": "standard",
+    "joined": "2024-03-24"
+  },
+  {
+    "customer_id": "C0116",
+    "name": "Ananya Reddy",
+    "email": "ananya.reddy116@example.com",
+    "city": "Delhi",
+    "tier": "standard",
+    "joined": "2025-08-18"
+  },
+  {
+    "customer_id": "C0117",
+    "name": "Noah Johnson",
+    "email": "noah.johnson117@example.com",
+    "city": "Pune",
+    "tier": "standard",
+    "joined": "2024-09-09"
+  },
+  {
+    "customer_id": "C0118",
+    "name": "Arjun Khan",
+    "email": "arjun.khan118@example.com",
+    "city": "Delhi",
+    "tier": "standard",
+    "joined": "2024-03-06"
+  },
+  {
+    "customer_id": "C0119",
+    "name": "Aarav Mehta",
+    "email": "aarav.mehta119@example.com",
+    "city": "Hyderabad",
+    "tier": "gold",
+    "joined": "2024-11-08"
+  },
+  {
+    "customer_id": "C0120",
+    "name": "Divya Patel",
+    "email": "divya.patel120@example.com",
+    "city": "Hyderabad",
+    "tier": "standard",
+    "joined": "2025-06-06"
+  },
+  {
+    "customer_id": "C0121",
+    "name": "Karthik Sharma",
+    "email": "karthik.sharma121@example.com",
+    "city": "Chennai",
+    "tier": "standard",
+    "joined": "2024-02-29"
+  },
+  {
+    "customer_id": "C0122",
+    "name": "Sneha Joshi",
+    "email": "sneha.joshi122@example.com",
+    "city": "Mumbai",
+    "tier": "standard",
+    "joined": "2025-05-19"
+  },
+  {
+    "customer_id": "C0123",
+    "name": "Emma Iyer",
+    "email": "emma.iyer123@example.com",
+    "city": "Bengaluru",
+    "tier": "standard",
+    "joined": "2025-11-24"
+  },
+  {
+    "customer_id": "C0124",
+    "name": "Meera Nair",
+    "email": "meera.nair124@example.com",
+    "city": "Hyderabad",
+    "tier": "gold",
+    "joined": "2023-08-03"
+  },
+  {
+    "customer_id": "C0125",
+    "name": "Liam Garcia",
+    "email": "liam.garcia125@example.com",
+    "city": "Mumbai",
+    "tier": "standard",
+    "joined": "2022-12-11"
+  },
+  {
+    "customer_id": "C0126",
+    "name": "Divya Nair",
+    "email": "divya.nair126@example.com",
+    "city": "Delhi",
+    "tier": "gold",
+    "joined": "2023-06-14"
+  },
+  {
+    "customer_id": "C0127",
+    "name": "Sneha Joshi",
+    "email": "sneha.joshi127@example.com",
+    "city": "Hyderabad",
+    "tier": "standard",
+    "joined": "2024-05-31"
+  },
+  {
+    "customer_id": "C0128",
+    "name": "Emma Patel",
+    "email": "emma.patel128@example.com",
+    "city": "Pune",
+    "tier": "standard",
+    "joined": "2024-06-17"
+  },
+  {
+    "customer_id": "C0129",
+    "name": "Sophia Nair",
+    "email": "sophia.nair129@example.com",
+    "city": "Guntur",
+    "tier": "gold",
+    "joined": "2023-04-03"
+  },
+  {
+    "customer_id": "C0130",
+    "name": "Noah Singh",
+    "email": "noah.singh130@example.com",
+    "city": "Guntur",
+    "tier": "standard",
+    "joined": "2023-11-22"
+  },
+  {
+    "customer_id": "C0131",
+    "name": "Arjun Chopra",
+    "email": "arjun.chopra131@example.com",
+    "city": "Vijayawada",
+    "tier": "standard",
+    "joined": "2023-06-30"
+  },
+  {
+    "customer_id": "C0132",
+    "name": "Arjun Johnson",
+    "email": "arjun.johnson132@example.com",
+    "city": "Mumbai",
+    "tier": "standard",
+    "joined": "2026-05-01"
+  },
+  {
+    "customer_id": "C0133",
+    "name": "Arjun Das",
+    "email": "arjun.das133@example.com",
+    "city": "Mumbai",
+    "tier": "standard",
+    "joined": "2023-08-15"
+  },
+  {
+    "customer_id": "C0134",
+    "name": "Ava Garcia",
+    "email": "ava.garcia134@example.com",
+    "city": "Pune",
+    "tier": "standard",
+    "joined": "2024-12-29"
+  },
+  {
+    "customer_id": "C0135",
+    "name": "Ananya Kumar",
+    "email": "ananya.kumar135@example.com",
+    "city": "Mumbai",
+    "tier": "standard",
+    "joined": "2025-05-14"
+  },
+  {
+    "customer_id": "C0136",
+    "name": "John Smith",
+    "email": "john.smith136@example.com",
+    "city": "Delhi",
+    "tier": "standard",
+    "joined": "2023-12-02"
+  },
+  {
+    "customer_id": "C0137",
+    "name": "Karthik Patel",
+    "email": "karthik.patel137@example.com",
+    "city": "Mumbai",
+    "tier": "standard",
+    "joined": "2024-01-29"
+  },
+  {
+    "customer_id": "C0138",
+    "name": "Mia Gupta",
+    "email": "mia.gupta138@example.com",
+    "city": "Vijayawada",
+    "tier": "standard",
+    "joined": "2024-01-24"
+  },
+  {
+    "customer_id": "C0139",
+    "name": "Noah Sharma",
+    "email": "noah.sharma139@example.com",
+    "city": "Bengaluru",
+    "tier": "standard",
+    "joined": "2024-07-19"
+  },
+  {
+    "customer_id": "C0140",
+    "name": "Divya Brown",
+    "email": "divya.brown140@example.com",
+    "city": "Pune",
+    "tier": "standard",
+    "joined": "2023-11-03"
+  },
+  {
+    "customer_id": "C0141",
+    "name": "Emma Khan",
+    "email": "emma.khan141@example.com",
+    "city": "Pune",
+    "tier": "standard",
+    "joined": "2024-04-09"
+  },
+  {
+    "customer_id": "C0142",
+    "name": "Arjun Brown",
+    "email": "arjun.brown142@example.com",
+    "city": "Delhi",
+    "tier": "standard",
+    "joined": "2025-09-26"
+  },
+  {
+    "customer_id": "C0143",
+    "name": "John Nair",
+    "email": "john.nair143@example.com",
+    "city": "Chennai",
+    "tier": "standard",
+    "joined": "2024-02-07"
+  },
+  {
+    "customer_id": "C0144",
+    "name": "Arjun Joshi",
+    "email": "arjun.joshi144@example.com",
+    "city": "Delhi",
+    "tier": "gold",
+    "joined": "2025-09-23"
+  },
+  {
+    "customer_id": "C0145",
+    "name": "Meera Gupta",
+    "email": "meera.gupta145@example.com",
+    "city": "Pune",
+    "tier": "standard",
+    "joined": "2026-09-27"
+  },
+  {
+    "customer_id": "C0146",
+    "name": "Mia Singh",
+    "email": "mia.singh146@example.com",
+    "city": "Delhi",
+    "tier": "standard",
+    "joined": "2026-07-06"
+  },
+  {
+    "customer_id": "C0147",
+    "name": "Mia Brown",
+    "email": "mia.brown147@example.com",
+    "city": "Chennai",
+    "tier": "standard",
+    "joined": "2024-01-24"
+  },
+  {
+    "customer_id": "C0148",
+    "name": "Sneha Sharma",
+    "email": "sneha.sharma148@example.com",
+    "city": "Delhi",
+    "tier": "standard",
+    "joined": "2024-05-06"
+  },
+  {
+    "customer_id": "C0149",
+    "name": "John Iyer",
+    "email": "john.iyer149@example.com",
+    "city": "Hyderabad",
+    "tier": "standard",
+    "joined": "2024-02-20"
+  },
+  {
+    "customer_id": "C0150",
+    "name": "Sneha Patel",
+    "email": "sneha.patel150@example.com",
+    "city": "Guntur",
+    "tier": "standard",
+    "joined": "2023-08-01"
+  },
+  {
+    "customer_id": "C0151",
+    "name": "Priya Singh",
+    "email": "priya.singh151@example.com",
+    "city": "Chennai",
+    "tier": "standard",
+    "joined": "2025-02-10"
+  },
+  {
+    "customer_id": "C0152",
+    "name": "Rahul Gupta",
+    "email": "rahul.gupta152@example.com",
+    "city": "Bengaluru",
+    "tier": "standard",
+    "joined": "2024-06-25"
+  },
+  {
+    "customer_id": "C0153",
+    "name": "Ava Chopra",
+    "email": "ava.chopra153@example.com",
+    "city": "Mumbai",
+    "tier": "standard",
+    "joined": "2024-09-06"
+  },
+  {
+    "customer_id": "C0154",
+    "name": "Noah Das",
+    "email": "noah.das154@example.com",
+    "city": "Delhi",
+    "tier": "gold",
+    "joined": "2024-05-30"
+  },
+  {
+    "customer_id": "C0155",
+    "name": "Meera Joshi",
+    "email": "meera.joshi155@example.com",
+    "city": "Hyderabad",
+    "tier": "standard",
+    "joined": "2026-04-05"
+  },
+  {
+    "customer_id": "C0156",
+    "name": "Karthik Rao",
+    "email": "karthik.rao156@example.com",
+    "city": "Delhi",
+    "tier": "standard",
+    "joined": "2025-12-08"
+  },
+  {
+    "customer_id": "C0157",
+    "name": "Divya Iyer",
+    "email": "divya.iyer157@example.com",
+    "city": "Bengaluru",
+    "tier": "standard",
+    "joined": "2024-07-11"
+  },
+  {
+    "customer_id": "C0158",
+    "name": "Noah Chopra",
+    "email": "noah.chopra158@example.com",
+    "city": "Vijayawada",
+    "tier": "standard",
+    "joined": "2025-07-08"
+  },
+  {
+    "customer_id": "C0159",
+    "name": "Meera Brown",
+    "email": "meera.brown159@example.com",
+    "city": "Vijayawada",
+    "tier": "standard",
+    "joined": "2025-07-04"
+  },
+  {
+    "customer_id": "C0160",
+    "name": "Arjun Joshi",
+    "email": "arjun.joshi160@example.com",
+    "city": "Mumbai",
+    "tier": "standard",
+    "joined": "2023-10-06"
+  },
+  {
+    "customer_id": "C0161",
+    "name": "Divya Singh",
+    "email": "divya.singh161@example.com",
+    "city": "Delhi",
+    "tier": "standard",
+    "joined": "2026-06-01"
+  },
+  {
+    "customer_id": "C0162",
+    "name": "Priya Iyer",
+    "email": "priya.iyer162@example.com",
+    "city": "Delhi",
+    "tier": "standard",
+    "joined": "2023-08-17"
+  },
+  {
+    "customer_id": "C0163",
+    "name": "Meera Das",
+    "email": "meera.das163@example.com",
+    "city": "Bengaluru",
+    "tier": "standard",
+    "joined": "2025-02-10"
+  },
+  {
+    "customer_id": "C0164",
+    "name": "Liam Smith",
+    "email": "liam.smith164@example.com",
+    "city": "Vijayawada",
+    "tier": "standard",
+    "joined": "2023-06-19"
+  },
+  {
+    "customer_id": "C0165",
+    "name": "Priya Khan",
+    "email": "priya.khan165@example.com",
+    "city": "Pune",
+    "tier": "standard",
+    "joined": "2026-09-03"
+  },
+  {
+    "customer_id": "C0166",
+    "name": "Rahul Gupta",
+    "email": "rahul.gupta166@example.com",
+    "city": "Hyderabad",
+    "tier": "gold",
+    "joined": "2023-01-18"
+  },
+  {
+    "customer_id": "C0167",
+    "name": "Arjun Joshi",
+    "email": "arjun.joshi167@example.com",
+    "city": "Hyderabad",
+    "tier": "standard",
+    "joined": "2025-11-01"
+  },
+  {
+    "customer_id": "C0168",
+    "name": "Sophia Verma",
+    "email": "sophia.verma168@example.com",
+    "city": "Vijayawada",
+    "tier": "gold",
+    "joined": "2025-10-19"
+  },
+  {
+    "customer_id": "C0169",
+    "name": "Ethan Khan",
+    "email": "ethan.khan169@example.com",
+    "city": "Vijayawada",
+    "tier": "gold",
+    "joined": "2024-03-07"
+  },
+  {
+    "customer_id": "C0170",
+    "name": "Emma Khan",
+    "email": "emma.khan170@example.com",
+    "city": "Pune",
+    "tier": "standard",
+    "joined": "2026-03-25"
+  },
+  {
+    "customer_id": "C0171",
+    "name": "Ananya Johnson",
+    "email": "ananya.johnson171@example.com",
+    "city": "Guntur",
+    "tier": "standard",
+    "joined": "2025-03-14"
+  },
+  {
+    "customer_id": "C0172",
+    "name": "Liam Mehta",
+    "email": "liam.mehta172@example.com",
+    "city": "Hyderabad",
+    "tier": "standard",
+    "joined": "2025-01-19"
+  },
+  {
+    "customer_id": "C0173",
+    "name": "Arjun Johnson",
+    "email": "arjun.johnson173@example.com",
+    "city": "Bengaluru",
+    "tier": "gold",
+    "joined": "2024-07-20"
+  },
+  {
+    "customer_id": "C0174",
+    "name": "Lucas Sharma",
+    "email": "lucas.sharma174@example.com",
+    "city": "Vijayawada",
+    "tier": "standard",
+    "joined": "2025-10-06"
+  },
+  {
+    "customer_id": "C0175",
+    "name": "Lucas Lee",
+    "email": "lucas.lee175@example.com",
+    "city": "Vijayawada",
+    "tier": "standard",
+    "joined": "2026-07-12"
+  },
+  {
+    "customer_id": "C0176",
+    "name": "Karthik Smith",
+    "email": "karthik.smith176@example.com",
+    "city": "Chennai",
+    "tier": "gold",
+    "joined": "2024-05-11"
+  },
+  {
+    "customer_id": "C0177",
+    "name": "Sophia Nair",
+    "email": "sophia.nair177@example.com",
+    "city": "Hyderabad",
+    "tier": "gold",
+    "joined": "2023-05-28"
+  },
+  {
+    "customer_id": "C0178",
+    "name": "Divya Iyer",
+    "email": "divya.iyer178@example.com",
+    "city": "Delhi",
+    "tier": "standard",
+    "joined": "2023-09-20"
+  },
+  {
+    "customer_id": "C0179",
+    "name": "Olivia Patel",
+    "email": "olivia.patel179@example.com",
+    "city": "Mumbai",
+    "tier": "gold",
+    "joined": "2026-03-07"
+  },
+  {
+    "customer_id": "C0180",
+    "name": "Noah Nair",
+    "email": "noah.nair180@example.com",
+    "city": "Chennai",
+    "tier": "standard",
+    "joined": "2022-10-19"
+  },
+  {
+    "customer_id": "C0181",
+    "name": "Meera Verma",
+    "email": "meera.verma181@example.com",
+    "city": "Delhi",
+    "tier": "standard",
+    "joined": "2024-02-10"
+  },
+  {
+    "customer_id": "C0182",
+    "name": "Sophia Gupta",
+    "email": "sophia.gupta182@example.com",
+    "city": "Vijayawada",
+    "tier": "standard",
+    "joined": "2024-08-31"
+  },
+  {
+    "customer_id": "C0183",
+    "name": "Karthik Chopra",
+    "email": "karthik.chopra183@example.com",
+    "city": "Chennai",
+    "tier": "gold",
+    "joined": "2025-04-08"
+  },
+  {
+    "customer_id": "C0184",
+    "name": "Olivia Johnson",
+    "email": "olivia.johnson184@example.com",
+    "city": "Delhi",
+    "tier": "standard",
+    "joined": "2025-03-25"
+  },
+  {
+    "customer_id": "C0185",
+    "name": "Meera Joshi",
+    "email": "meera.joshi185@example.com",
+    "city": "Vijayawada",
+    "tier": "gold",
+    "joined": "2024-04-24"
+  },
+  {
+    "customer_id": "C0186",
+    "name": "Mia Kumar",
+    "email": "mia.kumar186@example.com",
+    "city": "Pune",
+    "tier": "standard",
+    "joined": "2023-10-09"
+  },
+  {
+    "customer_id": "C0187",
+    "name": "Liam Das",
+    "email": "liam.das187@example.com",
+    "city": "Pune",
+    "tier": "gold",
+    "joined": "2022-11-27"
+  },
+  {
+    "customer_id": "C0188",
+    "name": "Divya Joshi",
+    "email": "divya.joshi188@example.com",
+    "city": "Guntur",
+    "tier": "standard",
+    "joined": "2024-07-06"
+  },
+  {
+    "customer_id": "C0189",
+    "name": "Priya Johnson",
+    "email": "priya.johnson189@example.com",
+    "city": "Vijayawada",
+    "tier": "standard",
+    "joined": "2024-09-05"
+  },
+  {
+    "customer_id": "C0190",
+    "name": "Liam Singh",
+    "email": "liam.singh190@example.com",
+    "city": "Vijayawada",
+    "tier": "gold",
+    "joined": "2026-02-09"
+  },
+  {
+    "customer_id": "C0191",
+    "name": "Lucas Joshi",
+    "email": "lucas.joshi191@example.com",
+    "city": "Pune",
+    "tier": "gold",
+    "joined": "2024-05-07"
+  },
+  {
+    "customer_id": "C0192",
+    "name": "Sneha Verma",
+    "email": "sneha.verma192@example.com",
+    "city": "Vijayawada",
+    "tier": "standard",
+    "joined": "2026-01-03"
+  },
+  {
+    "customer_id": "C0193",
+    "name": "Olivia Singh",
+    "email": "olivia.singh193@example.com",
+    "city": "Bengaluru",
+    "tier": "standard",
+    "joined": "2025-05-01"
+  },
+  {
+    "customer_id": "C0194",
+    "name": "John Chopra",
+    "email": "john.chopra194@example.com",
+    "city": "Guntur",
+    "tier": "standard",
+    "joined": "2024-12-22"
+  },
+  {
+    "customer_id": "C0195",
+    "name": "Mia Garcia",
+    "email": "mia.garcia195@example.com",
+    "city": "Pune",
+    "tier": "standard",
+    "joined": "2024-01-30"
+  },
+  {
+    "customer_id": "C0196",
+    "name": "Mia Reddy",
+    "email": "mia.reddy196@example.com",
+    "city": "Bengaluru",
+    "tier": "standard",
+    "joined": "2022-12-24"
+  },
+  {
+    "customer_id": "C0197",
+    "name": "Meera Gupta",
+    "email": "meera.gupta197@example.com",
+    "city": "Bengaluru",
+    "tier": "standard",
+    "joined": "2026-04-07"
+  },
+  {
+    "customer_id": "C0198",
+    "name": "Sneha Das",
+    "email": "sneha.das198@example.com",
+    "city": "Chennai",
+    "tier": "standard",
+    "joined": "2026-08-27"
+  },
+  {
+    "customer_id": "C0199",
+    "name": "Priya Johnson",
+    "email": "priya.johnson199@example.com",
+    "city": "Hyderabad",
+    "tier": "standard",
+    "joined": "2024-09-18"
+  },
+  {
+    "customer_id": "C0200",
+    "name": "Olivia Singh",
+    "email": "olivia.singh200@example.com",
+    "city": "Mumbai",
+    "tier": "standard",
+    "joined": "2023-08-23"
+  }
+]
